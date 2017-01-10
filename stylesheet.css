@@ -1,0 +1,57 @@
+html {
+	background-color: #efefef;
+}
+body {
+	background-color: rgba(104, 187, 285, 1);
+	font-family: arial;
+	padding: 10px;
+	width: 900px;
+	margin:auto;
+	margin-top: 10px;
+}
+h1 {
+	color: white;
+}
+img {
+}
+#left-box {
+	float: left;
+	background-color: rgba(9, 30, 45, 1);
+	color: white;
+	width: 300px;
+	padding: 15px;
+}
+#right-box {
+	margin: 0px 0px 0px 345px;
+}
+li {
+	list-style-type: none;
+}
+.bold {
+	font-weight: bold;
+}
+.boxes {
+	background-color: white;
+	padding: 15px;
+	margin: 0px 0px 10px 0px;
+}
+#experiences-box {
+}
+.experience {
+	margin-bottom: 5px;
+	/*border: 1px solid black;*/
+}
+.experience h3 {
+	margin: 0px;
+}
+.experience p {
+	margin: 5px 0px 15px 0px;
+}
+.study {
+
+}
+#footer {
+	padding: 5px;
+	background-color: #efefef;
+	margin-top: 10px;
+}
